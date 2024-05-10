@@ -15,6 +15,11 @@
         {
             "id": 4,
             "name": "Isabel Allende"
+        },
+        {
+            "id": 5,
+            "name": "Raddames Tonui",
+            "image" : "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=400"
         }
     ]
 }
